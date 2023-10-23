@@ -1,9 +1,3 @@
-# TicTacToe - Codigo de nuestro videojuego c:
-
-#include <Adafruit_TFTLCD.h>
-#include <pin_magic.h>
-#include <registers.h>
-
 /*#################################################################################
 
  UNIVERSIDAD AUTOTONOMA DE BAJA CALIFORNIA
@@ -19,8 +13,11 @@
                             Adafruit_TFTLCD.h - https://github.com/adafruit/TFTLCD-Library
                             TouchScreen.h     - https://github.com/adafruit/Adafruit_TouchScreen
 
-###################################################################################*/
+###################################################################################*/# TicTacToe - Codigo de nuestro videojuego c:
 
+#include <Adafruit_TFTLCD.h>
+#include <pin_magic.h>
+#include <registers.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_TFTLCD.h>
 #include <TouchScreen.h>
