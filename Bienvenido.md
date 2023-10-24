@@ -9,6 +9,7 @@
  -JOSE FRANCISCO JUAREZ ACEVEZ
  -ESTEFANIA TELLO MENDOZA
 
+21/10 2023
     Install Libraries From: Adafruit_GFX.h    - https://github.com/adafruit/Adafruit-GFX-Library
                             Adafruit_TFTLCD.h - https://github.com/adafruit/TFTLCD-Library
                             TouchScreen.h     - https://github.com/adafruit/Adafruit_TouchScreen
